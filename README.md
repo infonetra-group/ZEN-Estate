@@ -37,6 +37,6 @@ Whether you're a client looking to buy or sell, or an agent seeking high-quality
 
 ## 🌍 Live Demo
 
-Check out the live site: [zenrealestate.vercel.app](https://zen-estate.netlify.app/)
+Check out the live site: [zenrealestate](https://zen-estate.netlify.app/)
 
 > Made with ❤️ using modern web technologies.
